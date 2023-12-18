@@ -1,2 +1,4 @@
-# AzureML_CLI_Pipeline
-Basic Azure Machine Learning Pipeline Using CLI
+# Azure Machine Learning Pipelines Using CLI
+
+Azure Machine Learning Pipeline Using CLI
+
